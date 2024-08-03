@@ -134,9 +134,9 @@ Based on the findings, the following next steps are recommended:
 
 ### Outline of Project
 
-- [Link to Notebook 1: Exploratory Data Analysis](Exploratory Data Analysis.ipynb)
-- [Link to Notebook 2: Weather Data Analysis](Weather Analysis.ipynb)
-- [Link to Notebook 3: Air Quality Analysis](Air Quality Analysis.ipynb)
+- [Link to Notebook 1: Exploratory Data Analysis](https://github.com/RileyChisholm/UCB-MLAI-Capstone/blob/main/Exploratory%20Data%20Analysis.ipynb)
+- [Link to Notebook 2: Weather Data Analysis](https://github.com/RileyChisholm/UCB-MLAI-Capstone/blob/main/Weather%20Analysis.ipynb)
+- [Link to Notebook 3: Air Quality Analysis](https://github.com/RileyChisholm/UCB-MLAI-Capstone/blob/main/Air%20Quality%20Analysis.ipynb)
 
 
 ---
