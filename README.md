@@ -8,7 +8,19 @@
 
 This project explores the relationship between urban population growth, weather patterns, and air quality across major U.S. cities. Using a combination of linear regression, SARIMA time series analysis, and K-means clustering, the study aims to identify trends, correlations, and factors influencing urban climate and air quality. The results suggest that while population growth has some impact, it is not the sole determinant of these environmental factors. Local policies, environmental regulations, and geographical conditions also play crucial roles in shaping urban environments.
 
-![Overview of cities analyzed](path_to_image1)
+| **City**            | **State** |
+|---------------------|-----------|
+| New York City       | NY        |
+| Los Angeles         | CA        |
+| Seattle             | WA        |
+| Houston             | TX        |
+| Phoenix             | AZ        |
+| Philadelphia        | PA        |
+| San Antonio         | TX        |
+| San Diego           | CA        |
+| Dallas              | TX        |
+| Jacksonville        | FL        |
+
 
 ---
 
