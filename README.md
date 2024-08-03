@@ -134,9 +134,9 @@ Based on the findings, the following next steps are recommended:
 
 ### Outline of Project
 
-- [Link to Notebook 1: Weather Data Analysis]()
-- [Link to Notebook 2: Air Quality Analysis]()
-- [Link to Notebook 3: Combined Clustering and Time Series Analysis]()
+- [Link to Notebook 1: Exploratory Data Analysis](Exploratory Data Analysis.ipynb)
+- [Link to Notebook 2: Weather Data Analysis](Weather Analysis.ipynb)
+- [Link to Notebook 3: Air Quality Analysis](Air Quality Analysis.ipynb)
 
 
 ---
